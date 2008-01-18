@@ -159,3 +159,5 @@ Edit the configuration file found in  'admin/config.php' and enter the required 
 = USAGE =
 
 Finally, browse to the admin directory, e.g. http://mywebserver.com/GoogleAppsToolKit/admin/, to execute the batch functions or to the selfprovisioning directory, e.g. http://mywebserver.com/GoogleAppsToolKit/selfprovisioning/, to execute the self provisioning functions.
+
+To discuss the toolkit, please visit the project's Google Group: http://groups.google.com/group/google-apps-provisioning-toolkit
