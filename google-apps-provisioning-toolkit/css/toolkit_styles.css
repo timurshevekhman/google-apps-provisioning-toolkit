@@ -1,0 +1,75 @@
+@charset "utf-8";
+body, p, div, ul, li, td, blockquote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+table.sample{
+		border-collapse:collapse;
+		width:auto;
+		margin-top:5px;
+		}
+		
+table.sample th{	
+		border:1px solid #ccc;
+		background:#eee;
+		padding:2px 10px;
+		text-align:center;
+		width:auto;
+		}
+	
+table.sample td{
+		border:1px solid #ccc;
+		padding:2px 10px;
+		text-align:left;
+		}
+		
+table.sample{
+		font-style:italic;
+		}
+		
+table.sample td, table.sample th{
+		color:#767676;
+		}
+
+table.sample .h{
+	display: none;
+}	
+		
+.hlight {
+	background-color: #ffe5e5;
+}
+
+.log_title{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:16px;
+	font-weight: bold;
+	color: #666666;
+}
+
+.tbl_login {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	width: 300px;
+}
+
+.tbl_login td { 
+	padding: 5px;
+}
+
+.tbl_acct {
+	width: 650px;
+}
+.tbl_acct td { 
+	padding: 5px;
+}
+input {
+	font-family:Arial,  Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#000099;
+}
+
