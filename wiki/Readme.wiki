@@ -9,6 +9,8 @@ The toolkit can be configured to address two common use cases:
 
 2. providing a web page where users can self-register with Google Apps, after optionally first authenticating against an existing user data store (e.g. SAML-based SSO, LDAP, or SQL)
 
+View a brief presentation: http://docs.google.com/a/google.com/Presentation?id=dcpd95bh_52vshqtjq3
+
 
 = SYSTEM REQUIREMENTS =
 
