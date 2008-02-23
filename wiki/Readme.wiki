@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,vmware
 = PROJECT OVERVIEW =
 
 The objective of the Open Source Google Apps Provisioning Toolkit is to provide a browser-based interface for creating and updating user accounts in Google Apps.  
@@ -13,6 +13,14 @@ View a brief presentation: http://docs.google.com/Presentation?id=dcpd95bh_52vsh
 
 
 = SYSTEM REQUIREMENTS =
+
+There are two ways to run the toolkit:  1) as a single download on the [http://www.vmware.com/products/player/ free VMware Player], or 2) using Apache/PHP.
+
+*VMware Requirements:*
+
+- Windows, Linux, or any OS that supports the [http://www.vmware.com/products/player/ free VMware Player].  View a quick [http://docs.google.com/Presentation?id=dcm3w56_2683ntdzgq presentation] on how to run the toolkit with the VMware image
+
+*Apache/PHP Requirements:*
 
 - Any O.S. which supports PHP and Apache 2.0
 
@@ -42,7 +50,7 @@ For more information on the GData Python client library, please see the project 
 Please note that many of the system requirement components may be installed by default by your Linux distribution.  Please visit your Linux distribution's download site for more information.
 
 
-= INSTALLATION =
+= INSTALLATION using Apache/PHP =
 
 Copy/upload files to a working directory within your web server's document root or your public HTML directory, e.g. /var/www/html/GoogleAppsToolKit/.  
 
